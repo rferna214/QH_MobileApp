@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://dpm-dev-member-portal.azurewebsites.net';

@@ -1,0 +1,2 @@
+C:\Users\Rfern\Source\Workspaces\CrmPortal\DEV-Branch-Second\Ronald\ReactMobileApp\obj\Debug\reactmobileapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Rfern\Source\Workspaces\CrmPortal\DEV-Branch-Second\Ronald\ReactMobileApp\obj\Debug\reactmobileapp.esproj.CoreCompileInputs.cache
